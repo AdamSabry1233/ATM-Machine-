@@ -1,4 +1,3 @@
-# ATM-Machine-
 # Automated Teller Machine (ATM) Project
 
 This Python-based Automated Teller Machine (ATM) project simulates basic banking functionalities.
