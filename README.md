@@ -10,4 +10,4 @@ This Python-based Automated Teller Machine (ATM) project simulates basic banking
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/atm-project.git
+   git clone https://github.com/AdamSabry1233/ATM-Machine-
